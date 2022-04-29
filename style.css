@@ -31,6 +31,7 @@
 }
 .botao:hover{
     background-color:black ;
+    color: white;
 }
 #resultado{
     background-color: white;
